@@ -21,5 +21,7 @@
 
   What in fact was the order in which the five girls were placed?
 
+ - Eight Queens problem
+
 # How to Run the code
  runhaskell MultipleDwelling.hs
